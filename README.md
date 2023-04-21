@@ -13,4 +13,13 @@ https://data.wprdc.org/dataset/63d09e2c-931c-4c66-86e0-844b84d2a8ad/resource/85e
 April 2019 Pittsburgh Public Schools - 
 https://data.wprdc.org/dataset/46fb3ca4-e844-4b42-b034-e87291d34699/resource/06664b02-c673-49d5-8a70-d3cd1c18ac8d/download/pps_schoolsapr2019publish.csv
 
+
+Groceries- 
+https://data.wprdc.org/dataset/allegheny-county-supermarkets-convenience-stores
+
+Walkability - 
+https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
+
+
+
 We are determing the best neighborhood in Pittsburgh based on overall livability for a typical family of four using housing ownership, schooling, and groceries as our submetrics. 
